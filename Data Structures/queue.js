@@ -24,3 +24,4 @@ queue.enQueue(3);
 queue.enQueue(4)
 queue.deQueue();
 queue.display()
+queue.display()
